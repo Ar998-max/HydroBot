@@ -3,7 +3,7 @@ import requests
 import random
 
 
-ACCESS_KEY = 'aDQdki2pX9d3BggPnyDGYl3n2UdmK3D_vmVpUQwZ99A'
+ACCESS_KEY = 'XXXXXX'
 Items = ['Water', 'water in cup', 'sea']
 q = Items + ['Nature']
 
