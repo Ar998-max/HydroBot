@@ -2,7 +2,7 @@ from newsapi import NewsApiClient
 import datetime as dt
 import pandas as pd
 
-newsapi = NewsApiClient(api_key='603a030f4cc64883b2e9340cdebbbc36')
+newsapi = NewsApiClient(api_key='XXXXXXXX')
 
 data = newsapi.get_everything(q='Water',
                                      
